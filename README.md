@@ -63,60 +63,45 @@ Mi objetivo es colaborar contigo para convertir tus ideas en realidad digital. Y
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://campionshamburguerproyecto.netlify.app/" title="Go to Source">
-        <img align="center" width=100% src="https://campionshamburguerproyecto.netlify.app/"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <section class="blog container">
+        <h2> blog</h2>
+        <p> la perrra</p>
+        <div class="blog-content">
+            <div class="blog-1">
+                <img src="/Screenshot 2024-05-04 at 10.24.48 PM.png" alt="">
+                <h3>blog 1</h3>
+                <p>perra de angelo ipsum dolor sit amet consectetur adipisicing elit. 
+                    Eveniet dolorem ipsam unde dolor ad voluptatum amet non illum odit, praesentium aliq
+                    uid molestias nesciunt temporibus quisquam, voluptas aliquam pariatur! Esse, recusandae?</p>
+            </div>
+            <div class="blog-1">
+                <img src="images/blog2.jpg" alt="">
+                <h3>blog 1</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Eveniet dolorem ipsam unde dolor ad voluptatum amet non illum odit, praesentium aliq
+                    uid molestias nesciunt temporibus quisquam, voluptas aliquam pariatur! Esse, recusandae?</p>
+            </div>
+            <div class="blog-1">
+                <img src="images/blog3.jpg" alt="">
+                <h3>blog 1</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Eveniet dolorem ipsam unde dolor ad voluptatum amet non illum odit, praesentium aliq
+                    uid molestias nesciunt temporibus quisquam, voluptas aliquam pariatur! Esse, recusandae?</p>
+            </div>
+        </div>
+        <a href="$" class="btn-1"> informacion</a>
+    </section>
+</body>
+</html>
 <!------------------------->
 <div id="apoyo">
 <h2>Si quieres apoyarme 😻</h2>
