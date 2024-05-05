@@ -12,9 +12,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO DE SISTEMAS DESARROLLO WEB
 
-🎥 Hola! Soy [Tu Nombre], un profesional versátil con experiencia en diseño web, desarrollo de aplicaciones móviles y creación de juegos. Me apasiona fusionar creatividad y tecnología para ofrecer experiencias digitales únicas y atractivas.
+🎥 Hola! Soy Jose Santiago Munar Ortiz un profesional versátil con experiencia en diseño web, desarrollo de aplicaciones móviles y creación de juegos. Me apasiona fusionar creatividad y tecnología para ofrecer experiencias digitales únicas y atractivas.
 
 Experiencia:
 
