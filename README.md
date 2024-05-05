@@ -14,13 +14,26 @@
 <p align="left">
 🎓 INGENIERO EN INFORMÁTICA
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 Hola! Soy [Tu Nombre], un profesional versátil con experiencia en diseño web, desarrollo de aplicaciones móviles y creación de juegos. Me apasiona fusionar creatividad y tecnología para ofrecer experiencias digitales únicas y atractivas.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+Experiencia:
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+He trabajado en una variedad de proyectos, desde la creación de sitios web corporativos hasta el desarrollo de aplicaciones móviles y juegos adictivos.
+Mi enfoque en el diseño web se centra en la estética, la usabilidad y la experiencia del usuario.
+Como desarrollador móvil, he creado aplicaciones para Android e iOS utilizando tecnologías como Flutter, React Native y Swift.
+En el ámbito de los juegos, he desarrollado tanto juegos móviles casuales como experiencias más complejas para diversas plataformas.
+Habilidades Destacadas:
 
-📫 Contacto: **unsimpledev@gmail.com**
+Diseño Web: Adobe XD, Figma, Sketch.
+Desarrollo Frontend: HTML5, CSS3, JavaScript (React, Angular).
+Desarrollo Backend: Node.js, Express, Firebase.
+Desarrollo de Aplicaciones Móviles: Flutter, React Native, Swift.
+Desarrollo de Juegos: Unity, C#, Godot Engine.
+Enfoque:
+Mi enfoque es crear productos digitales que cautiven a los usuarios y agreguen valor a los clientes. Me esfuerzo por mantenerme actualizado con las últimas tendencias en diseño y tecnología para ofrecer soluciones innovadoras y efectivas.
+
+Objetivo:
+Mi objetivo es colaborar contigo para convertir tus ideas en realidad digital. Ya sea que necesites un sitio web impresionante, una aplicación móvil funcional o un juego emocionante, estoy aquí para ayudarte a alcanzar tus metas.
 <!--Intro end-->
   </p>
 <br>
