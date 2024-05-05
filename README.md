@@ -68,7 +68,7 @@ Mi objetivo es colaborar contigo para convertir tus ideas en realidad digital. Y
   <td width="25%" align="center">
     <p align="center">
      <a href="https://campionshamburguerproyecto.netlify.app/" title="Go to Source">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://campionshamburguerproyecto.netlify.app/"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
