@@ -23,7 +23,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO DE SISTEMAS DESARROLLO WEB
+🎓 INGENIERO DE SISTEMAS DESARROLLO WEB PROFESIONAL CON TITULO
 
 🎥 Hola! Soy Jose Santiago Munar Ortiz un profesional versátil con experiencia en diseño web, desarrollo de aplicaciones móviles y creación de juegos. Me apasiona fusionar creatividad y tecnología para ofrecer experiencias digitales únicas y atractivas.
 
